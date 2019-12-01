@@ -33,6 +33,10 @@ python Result_Model.py
 
 ## Sample Output:
 
+## Graphs:
+![Gender](https://github.com/TejasAmle/Gender-Detection/blob/master/gender.png)
+
+
 
 ## Datset Used
 #### Dataset is collected from online google images and is being shared in this repository. Dataset consist of 2200 images (each class has 1100 images). You can download the dataset and the pre-trained models from the given link:
